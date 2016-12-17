@@ -28,7 +28,7 @@ Requirements Fullfillment:
   4. There are multiple items/tools on the map, use you imagination on them.
   5. Try to grab some gold/money on the ground. It's fun. (I'm not gonna tell you it's important.)
   6. On the abandoned ship there is only you alive. But interaction with enemy (kill) is supported.
-  
+
 <!-- Supported commands:
 
                     <forward>/<f> —— go forward\n
