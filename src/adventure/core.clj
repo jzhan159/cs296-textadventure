@@ -3,6 +3,7 @@
             [clojure.string :as str])
   (:gen-class))
 
+
 (def the-map
   { :ship-cockpit {:desc "You wake up in the cockpit of an abandoned space ship. There are smells of burned stuff all over the space, and the lights are off. The control panel in front of you have a red light blinking. You have box in your hand with a puzzle on it. Maybe there is a critical item in there?"
            :title "in the cockpit"

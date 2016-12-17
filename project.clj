@@ -7,4 +7,5 @@
                  [org.clojure/core.match "0.3.0-alpha4"]]
   :main ^:skip-aot adventure.core
   :target-path "target/%s"
+  
   :profiles {:uberjar {:aot :all}})
